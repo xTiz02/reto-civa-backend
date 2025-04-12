@@ -52,7 +52,7 @@ Se maneja también un **refresh token** que permite obtener un nuevo token de ac
 Se han definido los siguientes **roles de acceso**:
 
 - `buses_view_list`: permite listar los buses.
-- `buses_view_detail`: permite ver el detalle de un bus específico.
+- `bus_view_detail`: permite ver el detalle de un bus específico.
 
 Los endpoints están protegidos según el rol asignado al usuario.
 
